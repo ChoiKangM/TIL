@@ -1,3 +1,6 @@
 [submodule "walkWithPython"]
 	path = walkWithPython
 	url = https://github.com/kei01138/walkWithPython.git
+[submodule "Web"]
+	path = Web
+	url = https://github.com/kei01138/Web.git
