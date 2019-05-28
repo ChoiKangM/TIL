@@ -1,7 +1,7 @@
 # Today I Learned
 > 오늘 내가 배운 것을 정리하자  
 
-## `190527` - [walkWithPython](walkWithPython/README.md)
+## `190527` - [`walkWithPython`](https://github.com/kei01138/walkWithPython/tree/60a0f6b46fbb71cb38d3a3f5e14f0cc5f8389448)
 ## 1교시
 Pycharm, Python, Git Bash 설치  
 Pycharm에 Git bash 연동
