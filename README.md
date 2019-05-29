@@ -1,7 +1,7 @@
 # Today I Learned
 > 오늘 내가 배운 것을 정리하자  
 
-## `190527` - [`walkWithPython`](https://github.com/kei01138/walkWithPython/tree/60a0f6b46fbb71cb38d3a3f5e14f0cc5f8389448)
+## `190527` - [`walkWithPython`](../walkWithPython)
 ## 1교시
 Pycharm, Python, Git Bash 설치  
 Pycharm에 Git bash 연동
@@ -62,7 +62,7 @@ Pycharm에 Git bash 연동
 `melon_rank.py` : melon에서 실시간 차트 가져오자
 
 
-## `190528` - [`Web`](https://github.com/kei01138/Web/tree/1f34d837853b3a74db3d1b4e449c4cee58b1cb10)
+## `190528` - [`Web`](../Web)
 
 # 1교시 
 
