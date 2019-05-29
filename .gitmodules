@@ -4,3 +4,6 @@
 [submodule "Web"]
 	path = Web
 	url = https://github.com/kei01138/Web.git
+[submodule "WebService"]
+	path = WebService
+	url = https://github.com/kei01138/WebService.git
