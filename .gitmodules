@@ -7,3 +7,6 @@
 [submodule "WebService"]
 	path = WebService
 	url = https://github.com/kei01138/WebService.git
+[submodule "TelegramBot"]
+	path = TelegramBot
+	url = https://github.com/kei01138/TelegramBot.git
