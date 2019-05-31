@@ -10,3 +10,6 @@
 [submodule "TelegramBot"]
 	path = TelegramBot
 	url = https://github.com/kei01138/TelegramBot.git
+[submodule "mulcamIdeathon"]
+	path = mulcamIdeathon
+	url = https://github.com/kei01138/mulcamIdeathon.git
